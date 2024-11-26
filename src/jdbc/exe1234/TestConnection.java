@@ -1,4 +1,4 @@
-package ex1234;
+package src.jdbc.exe1234;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

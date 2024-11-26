@@ -1,4 +1,4 @@
-package ex5;
+package src.jdbc.ex1234.ex5;
 
 
 import java.sql.Connection;
@@ -38,7 +38,7 @@ public class DAOAcces {
         }
     }
 
-    // ex5
+    // src.jdbc.ex1234.ex5
 
    /* public void lister() {
         String sql = "SELECT id, prenom, login, statut, age FROM Acces";

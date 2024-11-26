@@ -1,4 +1,4 @@
-package ex5;
+package src.jdbc.ex1234.ex5;
 
 import java.util.ArrayList;
 
