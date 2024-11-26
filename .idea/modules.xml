@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jdbcTP.iml" filepath="$PROJECT_DIR$/jdbcTP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAvanceTp.iml" filepath="$PROJECT_DIR$/JavaAvanceTp.iml" />
     </modules>
   </component>
 </project>
